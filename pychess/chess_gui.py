@@ -4,7 +4,11 @@
 # Author: Boo Sung Kim, Eddie Sharick
 # Note: The pygame tutorial by Eddie Sharick was used for the GUI engine. The GUI code was altered by Boo Sung Kim to
 # fit in with the rest of the project.
-#
+
+# MustafaAamir: hey, I stumbled across this code and I really like it. My only gripe is with the use of .png files instead of .svg files.
+# I'm also making a chess enging after being inspired by Sebastian's Coding Adventures playlist haha. Reach out to me if you need the .svg files, or you can
+# download them from the chess programming wiki. Cheers
+
 import chess_engine
 from button import Button
 import pygame as py
